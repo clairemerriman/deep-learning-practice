@@ -1,2 +1,1 @@
-# deep-learning-practice
- Practice problems for deep learning course at Erdos Institute Summer 2024
+Study guide and practice problems for [Deep Learning course at Erdos Institute Summer 2024](https://www.erdosinstitute.org/programs/may-summer-2024/deep-learning-boot-camp). Notes for [Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD](https://github.com/fastai/fastbook/tree/master) and _Deep Learning with PyTorch: Build, train, and tune neural networks using Python tools First Edition_ by Eli Stevens, Luca Antiga, and Thomas Viehmann. Exercises and some notes from [Dive into Deep Learning](https://d2l.ai/index.html).
